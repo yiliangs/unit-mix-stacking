@@ -1,0 +1,25 @@
+K,tau_M,solver,status,feasible,solve_time_sec,objective,mip_gap_rel
+3,0.0,Gurobi,Infeasible,False,6.888,,inf
+3,0.005,Gurobi,Infeasible,False,7.808,,inf
+3,0.01,Gurobi,Infeasible,False,12.767,,inf
+3,0.02,Gurobi,Infeasible,False,9.417,,inf
+4,0.0,Gurobi,Not Solved,False,600.544,,inf
+4,0.005,Gurobi,Not Solved,False,600.503,,inf
+4,0.01,Gurobi,Not Solved,False,600.617,,inf
+4,0.02,Gurobi,Not Solved,False,600.623,,inf
+5,0.0,Gurobi,Optimal,True,148.669,4.9999999999999996e-06,0.0
+5,0.005,Gurobi,Optimal,True,59.689,4.9999999999999996e-06,0.0
+5,0.01,Gurobi,Optimal,True,280.623,4.9999999999999996e-06,0.0
+5,0.02,Gurobi,Optimal,True,48.795,4.9999999999999996e-06,0.0
+6,0.0,Gurobi,Optimal,True,21.101,5.999999999999999e-06,0.0
+6,0.005,Gurobi,Optimal,True,26.29,5.999999999999999e-06,0.0
+6,0.01,Gurobi,Optimal,True,16.952,5.999999999999999e-06,0.0
+6,0.02,Gurobi,Optimal,True,101.25,5.999999999999999e-06,0.0
+7,0.0,Gurobi,Optimal,True,12.564,5.999999999999999e-06,0.0
+7,0.005,Gurobi,Optimal,True,54.299,5.999999999999999e-06,0.0
+7,0.01,Gurobi,Optimal_TimeLimit,True,600.52,6.999999999999999e-06,0.08943241071136186
+7,0.02,Gurobi,Optimal_TimeLimit,True,600.608,6.999999999999999e-06,0.16413015821046695
+8,0.0,Gurobi,Optimal_TimeLimit,True,600.513,6.999999999999999e-06,0.16192355651211982
+8,0.005,Gurobi,Optimal,True,39.414,6.999999999999999e-06,0.0
+8,0.01,Gurobi,Optimal_TimeLimit,True,600.524,5.999999999999999e-06,0.028332149956181597
+8,0.02,Gurobi,Optimal,True,13.469,5.999999999999999e-06,0.0

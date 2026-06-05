@@ -1,0 +1,10 @@
+knob,description,delta,status,solve_time_sec
+plate:M.area_tol,Widen plate 'M' floor-area tolerance,+0.50% (now 1.00%),Infeasible,37.59
+plate:T.area_tol,Widen plate 'T' floor-area tolerance,+0.50% (now 1.00%),Infeasible,40.288
+plate:C.area_tol,Widen plate 'C' floor-area tolerance,+0.50% (now 1.00%),Infeasible,27.214
+unit:studio.area_tol,Widen unit 'studio' area tolerance,+2.00% (now 7.00%),Infeasible,21.656
+unit:1B.area_tol,Widen unit '1B' area tolerance,+2.00% (now 7.00%),Infeasible,43.63
+unit:2B.area_tol,Widen unit '2B' area tolerance,+2.00% (now 7.00%),Infeasible,45.819
+unit:2B+D.area_tol,Widen unit '2B+D' area tolerance,+2.00% (now 7.00%),Infeasible,34.349
+unit:3B.area_tol,Widen unit '3B' area tolerance,+2.00% (now 7.00%),Infeasible,38.33
+n_zones,Allow more distinct templates building-wide,+1 zones (now 4),Not Solved,181.442

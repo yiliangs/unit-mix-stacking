@@ -1,0 +1,11 @@
+label,archetype,envelope_m2,rho_target,K,tau,consultant_floor,status,feasible,placed_units,headroom_units,headroom_pct,total_area_m2,zones_used,solve_time_sec
+canonical-setback,setback,62940.0,1.009,8,0.005,814,Optimal,True,890,76,9.34,63212.1,6,20.619
+setback-rho90,setback,62940.0,0.9,8,0.005,726,Optimal,True,924,198,27.27,62912.1,8,3.627
+setback-rho94,setback,62940.0,0.94,8,0.005,758,Optimal,True,924,166,21.9,63086.8,8,13.138
+setback-rho98,setback,62940.0,0.98,8,0.005,792,Optimal,True,910,118,14.9,63189.3,6,13.225
+slab-rho90,slab,59500.0,0.9,8,0.005,686,Optimal_TimeLimit,True,921,235,34.26,59754.0,7,181.758
+slab-rho94,slab,59500.0,0.94,8,0.005,718,Optimal,True,890,172,23.96,59742.6,6,155.023
+slab-rho98,slab,59500.0,0.98,8,0.005,746,Optimal,True,864,118,15.82,59761.6,8,13.57
+tapered-rho90,tapered,66950.0,0.9,8,0.005,773,Optimal,True,950,177,22.9,66939.8,8,6.932
+tapered-rho94,tapered,66950.0,0.94,8,0.005,807,Optimal,True,950,143,17.72,66783.1,8,14.929
+tapered-rho98,tapered,66950.0,0.98,8,0.005,842,Optimal,True,950,108,12.83,66845.9,8,13.177

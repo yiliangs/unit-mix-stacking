@@ -1,0 +1,2 @@
+K,probe,time_limit,status,solve_time_sec,zones_used,total_units,total_area,objective,mip_dual_bound,mip_gap_rel,mip_node_count
+4,"MIPFocus=1, Heuristics=0.9, NoRelHeurTime=300",1800.0,Not Solved,1800.523,0,0,0.0,,4.0000000000000015e-06,inf,71465

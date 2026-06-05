@@ -1,0 +1,12 @@
+{
+  "script": "v2b_scaling.py",
+  "timestamp": "2026-05-20T14:35:52",
+  "git_commit": "792f9d2",
+  "python_version": "3.11.9",
+  "pulp_version": "3.3.1",
+  "highs_version": "HiGHS (version not exposed)",
+  "cbc_version": "Welcome to the CBC MILP Solver",
+  "os": "Windows 10",
+  "cpu": "AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD",
+  "ram_gb": 63.9
+}

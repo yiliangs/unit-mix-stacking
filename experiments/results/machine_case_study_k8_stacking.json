@@ -1,0 +1,13 @@
+{
+  "script": "case_study_k8_stacking.py",
+  "timestamp": "2026-05-29T10:03:07",
+  "git_commit": "89f99d9",
+  "python_version": "3.14.3",
+  "pulp_version": "3.3.1",
+  "highs_version": "HiGHS (version not exposed)",
+  "cbc_version": "unknown (TimeoutExpired)",
+  "gurobi_version": "Gurobi 13.0.2 (gurobipy 13.0.2)",
+  "os": "Windows 11",
+  "cpu": "Intel64 Family 6 Model 198 Stepping 2, GenuineIntel",
+  "ram_gb": 95.3
+}

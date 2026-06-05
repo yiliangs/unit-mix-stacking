@@ -1,0 +1,4 @@
+K,solver,time_limit,status,solve_time_sec,zones_used,total_units,total_area,objective
+4,SCIP,600.0,Not Solved,600.34,0,0,0.0,
+5,SCIP,600.0,Not Solved,599.865,0,0,0.0,
+6,SCIP,600.0,Not Solved,599.82,0,0,0.0,

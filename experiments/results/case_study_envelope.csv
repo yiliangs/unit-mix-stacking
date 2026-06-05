@@ -1,0 +1,25 @@
+K,tau_M,status,feasible,solve_time_sec,objective
+3,0.0,Infeasible,False,110.293,
+3,0.005,Infeasible,False,43.622,
+3,0.01,Infeasible,False,37.698,
+3,0.02,Infeasible,False,38.174,
+4,0.0,Not Solved,False,241.058,
+4,0.005,Not Solved,False,241.314,
+4,0.01,Not Solved,False,241.447,
+4,0.02,Not Solved,False,242.493,
+5,0.0,Not Solved,False,241.18,
+5,0.005,Not Solved,False,241.255,
+5,0.01,Not Solved,False,241.414,
+5,0.02,Not Solved,False,241.619,
+6,0.0,Optimal_TimeLimit,True,241.246,5.999999999999999e-06
+6,0.005,Not Solved,False,242.165,
+6,0.01,Not Solved,False,241.565,
+6,0.02,Not Solved,False,241.458,
+7,0.0,Optimal_TimeLimit,True,241.165,6.999999999999999e-06
+7,0.005,Optimal_TimeLimit,True,241.256,7.0000000000000024e-06
+7,0.01,Optimal_TimeLimit,True,241.353,7e-06
+7,0.02,Not Solved,False,241.639,
+8,0.0,Optimal_TimeLimit,True,241.186,5.999999999999999e-06
+8,0.005,Optimal_TimeLimit,True,241.431,6.999999999999999e-06
+8,0.01,Optimal_TimeLimit,True,241.537,7.999999999999991e-06
+8,0.02,Optimal_TimeLimit,True,241.555,6.999999999999624e-06

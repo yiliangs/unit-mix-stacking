@@ -1,0 +1,2 @@
+K,time_limit,status,solve_time_sec,zones_used,total_units,total_area,objective,mip_dual_bound,mip_gap_rel,mip_node_count
+11,1800.0,Optimal,1666.106,4,814,63253.8,3.999999999999999e-06,3.999999999999999e-06,0.0,56900

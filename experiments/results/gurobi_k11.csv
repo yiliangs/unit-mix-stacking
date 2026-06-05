@@ -1,0 +1,2 @@
+K,solver,time_limit,status,solve_time_sec,zones_used,total_units,total_area,objective,mip_dual_bound,mip_gap_rel,mip_node_count
+11,Gurobi,1800.0,Optimal,13.109,6,814,63254.7,5.999999999999999e-06,5.999999999999999e-06,0.0,5227

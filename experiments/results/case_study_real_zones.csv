@@ -1,0 +1,4 @@
+zone,plate,n_floors,template_total_units,template_total_area,studio_count,studio_area,1B_count,1B_area,2B_count,2B_area,3B_count,3B_area,PH_count,PH_area
+1,lower,3,15,958.8,4,47.5,11,69.89,0,0.0,0,0.0,0,0.0
+2,mid,8,9,867.0,0,0.0,0,0.0,8,94.12,1,114.0,0,0.0
+3,upper,8,5,652.8,0,0.0,0,0.0,0,0.0,4,122.51,1,162.75

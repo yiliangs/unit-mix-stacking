@@ -1,0 +1,12 @@
+{
+  "script": "case_study_envelope.py",
+  "timestamp": "2026-05-21T01:18:10",
+  "git_commit": "99c272e",
+  "python_version": "3.14.3",
+  "pulp_version": "3.3.1",
+  "highs_version": "HiGHS (version not exposed)",
+  "cbc_version": "Welcome to the CBC MILP Solver",
+  "os": "Windows 11",
+  "cpu": "Intel64 Family 6 Model 198 Stepping 2, GenuineIntel",
+  "ram_gb": 95.3
+}

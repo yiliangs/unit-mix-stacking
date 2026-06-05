@@ -1,0 +1,13 @@
+{
+  "script": "gurobi_v1_vs_v2.py",
+  "timestamp": "2026-05-21T20:34:21",
+  "git_commit": "d4f1219",
+  "python_version": "3.14.3",
+  "pulp_version": "3.3.1",
+  "highs_version": "HiGHS (version not exposed)",
+  "cbc_version": "Welcome to the CBC MILP Solver",
+  "gurobi_version": "Gurobi 13.0.2 (gurobipy 13.0.2)",
+  "os": "Windows 11",
+  "cpu": "Intel64 Family 6 Model 198 Stepping 2, GenuineIntel",
+  "ram_gb": 95.3
+}
