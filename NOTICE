@@ -1,0 +1,9 @@
+Unit-Mix Stacking for Residential Towers: A Count-Vector Formulation
+Copyright 2026 Skidmore, Owings & Merrill LLP
+
+This product includes software developed as the reference implementation
+and reproducibility package for the paper of the same name, submitted to
+the Journal of Computing in Civil Engineering (ASCE).
+
+All problem instances are synthetic or derived from publicly available
+architectural documentation.

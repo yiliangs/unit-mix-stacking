@@ -59,4 +59,5 @@ as-built mix. No proprietary project data is used.
 
 ## License
 
-Released under the MIT License (see [`LICENSE`](LICENSE)).
+Released under the Apache License, Version 2.0 (see [`LICENSE`](LICENSE)
+and [`NOTICE`](NOTICE)).
