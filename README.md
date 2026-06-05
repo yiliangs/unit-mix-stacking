@@ -43,7 +43,7 @@ the deposited data is the figure source of truth.
 | Synthetic case: stacking figure | `case_study_k8_stacking.py` | `case_study_k8_stacking.csv` |
 | Real case (De Piek) stacking figure | `case_study_real.py` | `case_study_real_stacking.csv` |
 | Real case: feasibility envelope | `case_study_real_envelope.py` | `case_study_real_envelope.csv`, `case_study_real_diag.csv` |
-| Solver cross-checks (Gurobi/SCIP, extended budgets) | `gurobi_*.py`, `scip_middle_band.py`, `k11_long_budget.py`, `k4_long_budget.py` | `*_gurobi.csv`, `scip_*.csv`, `k*_long_budget.csv` |
+| Solver cross-checks (Gurobi/SCIP, extended budgets) | `gurobi_*.py`, `scip_middle_band.py`, `k11_long_budget.py` | `*_gurobi.csv`, `scip_*.csv`, `k11_long_budget.csv` |
 
 The two case-study stacking figures are arranged under a vertical-sort
 objective computed with Gurobi; all reported timings, statuses,
@@ -59,4 +59,4 @@ as-built mix. No proprietary project data is used.
 
 ## License
 
-TODO: add a license before making this repository public.
+Released under the MIT License (see [`LICENSE`](LICENSE)).

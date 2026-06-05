@@ -1,2 +1,0 @@
-K,time_limit,status,solve_time_sec,zones_used,total_units,total_area,objective,mip_dual_bound,mip_gap_rel,mip_node_count
-4,1800.0,Not Solved,1801.124,0,0,0.0,,3.7524926686217e-06,inf,13947
