@@ -61,3 +61,13 @@ as-built mix. No proprietary project data is used.
 
 Released under the Apache License, Version 2.0 (see [`LICENSE`](LICENSE)
 and [`NOTICE`](NOTICE)).
+
+## Paper supplemental materials
+
+ASCE no longer hosts supplemental materials (policy of 2025-01-05).
+The supplemental document for the JCCE manuscript (Sections S1-S6:
+problem and constraint-knob illustrations; patent-landscape search
+summary; consolidated V1/V2/V2b formulations; supporting algorithms,
+instance tables, and the headroom curve; LP-relaxation tightness;
+secondary experiment tables) is archived here:
+[paper_supplement/Supplemental_Materials.pdf](paper_supplement/Supplemental_Materials.pdf)
