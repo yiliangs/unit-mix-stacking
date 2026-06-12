@@ -42,7 +42,7 @@ the deposited data is the figure source of truth.
 | Synthetic case: headroom + battery (§7.4–7.5) | `case_study_headroom.py`, `case_study_headroom_battery.py` | `case_study_headroom*.csv` |
 | Synthetic case: stacking figure | `case_study_k8_stacking.py` | `case_study_k8_stacking.csv` |
 | Real case (De Piek) stacking figure | `case_study_real.py` | `case_study_real_stacking.csv` |
-| Real case: feasibility envelope | `case_study_real_envelope.py` | `case_study_real_envelope.csv`, `case_study_real_diag.csv` |
+| Real case: feasibility envelope | `case_study_real_envelope.py` | `case_study_real_envelope.csv` |
 | Solver cross-checks (Gurobi/SCIP, extended budgets) | `gurobi_*.py`, `scip_middle_band.py`, `k11_long_budget.py` | `*_gurobi.csv`, `scip_*.csv`, `k11_long_budget.csv` |
 
 The two case-study stacking figures are arranged under a vertical-sort
