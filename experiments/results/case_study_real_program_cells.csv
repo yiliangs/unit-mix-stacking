@@ -1,0 +1,59 @@
+program_id,phase,K,m,d,status,outcome,zones_used,floors_per_zone,achieved_counts,abs_deviation,solve_time_sec
+count_studio-1,ladder,3,2,,Optimal,feasible,3,lower:3|mid:8|upper:8,"{""studio"": 11, ""1B"": 33, ""2B"": 64, ""3B"": 40, ""PH"": 8}",0,11.96
+posed,ladder,3,2,,Optimal,feasible,3,lower:3|mid:8|upper:8,"{""studio"": 12, ""1B"": 33, ""2B"": 64, ""3B"": 40, ""PH"": 8}",0,16.4
+posed,mrun,3,3,,Optimal,feasible,3,lower:3|mid:8|upper:8,"{""studio"": 12, ""1B"": 33, ""2B"": 64, ""3B"": 40, ""PH"": 8}",0,7.4
+posed,mrun,3,4,,"config_error: Plate 'lower' has 3 floors, but min_floors_per_zone is 4. Plate is too small to host any zone.",config_error,,,,,
+posed,mrun,9,3,,Optimal,feasible,4,lower:3|mid:8|upper:5|upper:3,"{""studio"": 12, ""1B"": 33, ""2B"": 64, ""3B"": 40, ""PH"": 8}",0,17.12
+posed,mrun,9,4,,"config_error: Plate 'lower' has 3 floors, but min_floors_per_zone is 4. Plate is too small to host any zone.",config_error,,,,,
+count_studio+1,ladder,3,2,,Infeasible,infeasible,0,,,,71.01
+count_studio+1,ladder,4,2,,Optimal,feasible,4,lower:3|mid:6|mid:2|upper:8,"{""studio"": 13, ""1B"": 33, ""2B"": 64, ""3B"": 40, ""PH"": 8}",0,18.66
+count_studio+1,slack,3,2,1,Optimal_TimeLimit,feasible,3,lower:3|mid:8|upper:8,"{""studio"": 12, ""1B"": 33, ""2B"": 64, ""3B"": 40, ""PH"": 8}",1,120.67
+count_1B-1,ladder,3,2,,Optimal,feasible,3,lower:3|mid:8|upper:8,"{""studio"": 12, ""1B"": 32, ""2B"": 64, ""3B"": 40, ""PH"": 8}",0,12.79
+count_1B+1,ladder,3,2,,Infeasible,infeasible,0,,,,54.89
+count_2B+1,ladder,3,2,,Infeasible,infeasible,0,,,,57.83
+count_1B+1,ladder,4,2,,Optimal,feasible,4,lower:3|mid:3|mid:5|upper:8,"{""studio"": 12, ""1B"": 34, ""2B"": 64, ""3B"": 40, ""PH"": 8}",0,16.49
+count_2B+1,ladder,4,2,,Optimal,feasible,4,lower:3|mid:8|upper:6|upper:2,"{""studio"": 12, ""1B"": 33, ""2B"": 65, ""3B"": 40, ""PH"": 8}",0,15.39
+count_2B+1,slack,3,2,1,Optimal,feasible,3,lower:3|mid:8|upper:8,"{""studio"": 12, ""1B"": 33, ""2B"": 66, ""3B"": 40, ""PH"": 8}",1,73.15
+count_1B+1,slack,3,2,1,Optimal,feasible,3,lower:3|mid:8|upper:8,"{""studio"": 12, ""1B"": 34, ""2B"": 64, ""3B"": 41, ""PH"": 8}",1,91.41
+count_2B-1,ladder,3,2,,Infeasible,infeasible,0,,,,65.07
+count_3B+1,ladder,3,2,,Infeasible,infeasible,0,,,,66.66
+count_2B-1,ladder,4,2,,Optimal,feasible,4,lower:3|mid:5|mid:3|upper:8,"{""studio"": 12, ""1B"": 33, ""2B"": 63, ""3B"": 40, ""PH"": 8}",0,34.39
+count_3B+1,ladder,4,2,,Optimal,feasible,4,lower:3|mid:4|mid:4|upper:8,"{""studio"": 12, ""1B"": 33, ""2B"": 64, ""3B"": 41, ""PH"": 8}",0,31.51
+count_2B-1,slack,3,2,1,Optimal,feasible,3,lower:3|mid:8|upper:8,"{""studio"": 12, ""1B"": 33, ""2B"": 64, ""3B"": 40, ""PH"": 8}",1,71.08
+count_3B-1,ladder,3,2,,Optimal,feasible,3,lower:3|mid:8|upper:8,"{""studio"": 12, ""1B"": 33, ""2B"": 64, ""3B"": 39, ""PH"": 8}",0,11.86
+count_3B+1,slack,3,2,1,Optimal,feasible,3,lower:3|mid:8|upper:8,"{""studio"": 12, ""1B"": 34, ""2B"": 64, ""3B"": 41, ""PH"": 8}",1,89.42
+count_PH-1,ladder,3,2,,Infeasible,infeasible,0,,,,11.28
+count_PH-1,ladder,4,2,,Optimal,feasible,4,lower:3|mid:4|mid:4|upper:8,"{""studio"": 12, ""1B"": 33, ""2B"": 64, ""3B"": 40, ""PH"": 7}",0,20.1
+count_PH+1,ladder,3,2,,Infeasible,infeasible,0,,,,73.59
+count_PH+1,ladder,4,2,,Optimal,feasible,4,lower:3|mid:5|mid:3|upper:8,"{""studio"": 12, ""1B"": 33, ""2B"": 64, ""3B"": 40, ""PH"": 9}",0,32.43
+count_PH-1,slack,3,2,1,Optimal,feasible,3,lower:3|mid:8|upper:8,"{""studio"": 12, ""1B"": 33, ""2B"": 64, ""3B"": 40, ""PH"": 8}",1,57.87
+share_0.15,ladder,3,2,,Infeasible,infeasible,0,,,,5.56
+share_0.15,ladder,4,2,,Optimal,feasible,4,lower:3|mid:8|upper:2|upper:6,"{""studio"": 6, ""1B"": 16, ""2B"": 71, ""3B"": 45, ""PH"": 9}",0,6.49
+share_0.15,slack,3,2,1,Optimal,feasible,3,lower:3|mid:8|upper:8,"{""studio"": 6, ""1B"": 16, ""2B"": 72, ""3B"": 45, ""PH"": 8}",2,8.57
+share_0.20,ladder,3,2,,Infeasible,infeasible,0,,,,24.27
+share_0.20,ladder,4,2,,Optimal,feasible,4,lower:3|mid:8|upper:6|upper:2,"{""studio"": 8, ""1B"": 22, ""2B"": 69, ""3B"": 43, ""PH"": 9}",0,8.03
+count_PH+1,slack,3,2,1,Optimal,feasible,3,lower:3|mid:8|upper:8,"{""studio"": 12, ""1B"": 33, ""2B"": 64, ""3B"": 40, ""PH"": 8}",1,99.2
+share_0.25,ladder,3,2,,Infeasible,infeasible,0,,,,30.31
+share_0.25,ladder,4,2,,Optimal,feasible,4,lower:3|mid:4|mid:4|upper:8,"{""studio"": 11, ""1B"": 28, ""2B"": 66, ""3B"": 41, ""PH"": 8}",0,9.77
+share_0.20,slack,3,2,1,Optimal,feasible,3,lower:3|mid:8|upper:8,"{""studio"": 8, ""1B"": 22, ""2B"": 69, ""3B"": 43, ""PH"": 8}",1,44.72
+share_0.35,ladder,3,2,,Infeasible,infeasible,0,,,,60.31
+share_0.35,ladder,4,2,,Optimal,feasible,4,lower:3|mid:4|mid:4|upper:8,"{""studio"": 15, ""1B"": 41, ""2B"": 60, ""3B"": 37, ""PH"": 8}",0,15.6
+share_0.25,slack,3,2,1,Optimal,feasible,3,lower:3|mid:8|upper:8,"{""studio"": 11, ""1B"": 28, ""2B"": 65, ""3B"": 41, ""PH"": 8}",1,62.06
+share_0.40,ladder,3,2,,Infeasible,infeasible,0,,,,21.55
+share_0.40,ladder,4,2,,Optimal,feasible,4,lower:3|mid:6|mid:2|upper:8,"{""studio"": 18, ""1B"": 48, ""2B"": 57, ""3B"": 35, ""PH"": 7}",0,64.8
+share_0.35,slack,3,2,1,Optimal_TimeLimit,feasible,3,lower:3|mid:8|upper:8,"{""studio"": 14, ""1B"": 41, ""2B"": 60, ""3B"": 38, ""PH"": 8}",2,120.66
+share_0.45,ladder,3,2,,Infeasible,infeasible,0,,,,16.85
+share_0.45,ladder,4,2,,Optimal,feasible,4,lower:3|mid:8|upper:2|upper:6,"{""studio"": 20, ""1B"": 56, ""2B"": 53, ""3B"": 33, ""PH"": 7}",0,19.78
+share_0.40,slack,3,2,1,Optimal_TimeLimit,feasible,3,lower:3|mid:8|upper:8,"{""studio"": 18, ""1B"": 48, ""2B"": 57, ""3B"": 35, ""PH"": 6}",1,120.65
+tightness_0.96,ladder,3,2,,Optimal,feasible,3,lower:3|mid:8|upper:8,"{""studio"": 11, ""1B"": 32, ""2B"": 61, ""3B"": 38, ""PH"": 8}",0,9.72
+tightness_0.98,ladder,3,2,,Infeasible,infeasible,0,,,,33.95
+tightness_0.98,ladder,4,2,,Optimal,feasible,4,lower:3|mid:2|mid:6|upper:8,"{""studio"": 12, ""1B"": 32, ""2B"": 63, ""3B"": 39, ""PH"": 8}",0,21.63
+share_0.45,slack,3,2,1,Optimal_TimeLimit,feasible,3,lower:3|mid:8|upper:8,"{""studio"": 20, ""1B"": 56, ""2B"": 52, ""3B"": 33, ""PH"": 8}",2,120.65
+tightness_1.00,ladder,3,2,,Optimal,feasible,3,lower:3|mid:8|upper:8,"{""studio"": 12, ""1B"": 33, ""2B"": 64, ""3B"": 40, ""PH"": 8}",0,16.04
+tightness_1.02,ladder,3,2,,Infeasible,infeasible,0,,,,58.97
+tightness_1.02,ladder,4,2,,Optimal,feasible,4,lower:3|mid:2|mid:6|upper:8,"{""studio"": 12, ""1B"": 34, ""2B"": 65, ""3B"": 41, ""PH"": 8}",0,69.0
+tightness_0.98,slack,3,2,1,Optimal,feasible,3,lower:3|mid:8|upper:8,"{""studio"": 12, ""1B"": 32, ""2B"": 62, ""3B"": 39, ""PH"": 8}",1,56.11
+tightness_1.04,ladder,3,2,,Infeasible,infeasible,0,,,,36.87
+tightness_1.04,ladder,4,2,,Optimal,feasible,4,lower:3|mid:6|mid:2|upper:8,"{""studio"": 13, ""1B"": 34, ""2B"": 66, ""3B"": 42, ""PH"": 8}",0,20.26
+tightness_1.02,slack,3,2,1,Optimal,feasible,3,lower:3|mid:8|upper:8,"{""studio"": 12, ""1B"": 34, ""2B"": 65, ""3B"": 40, ""PH"": 8}",1,70.97
+tightness_1.04,slack,3,2,1,Optimal,feasible,3,lower:3|mid:8|upper:8,"{""studio"": 14, ""1B"": 33, ""2B"": 66, ""3B"": 43, ""PH"": 8}",3,78.05

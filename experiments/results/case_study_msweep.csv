@@ -1,0 +1,18 @@
+m,K,status,outcome,zones_used,floors_per_zone,solve_time_sec,objective,mip_dual_bound,mip_gap_rel,mip_node_count
+3,3,Infeasible,infeasible,0,,40.459,,inf,inf,620
+3,4,Not Solved,undetermined,0,,301.06,,3.541622429442508e-06,inf,901
+3,5,Not Solved,undetermined,0,,301.289,,3.37865377632535e-06,inf,1592
+3,6,Optimal_TimeLimit,feasible,6,M:9|M:4|M:24|T:8|T:4|C:6,301.259,5.999999999999999e-06,3.848876698014631e-06,0.3585205503308948,3901
+4,3,Infeasible,infeasible,0,,13.857,,inf,inf,57
+4,4,Not Solved,undetermined,0,,301.025,,3.1480337480337477e-06,inf,643
+4,5,Optimal,feasible,4,M:37|T:7|T:5|C:6,97.531,3.999999999999999e-06,3.999999999999999e-06,0.0,404
+5,3,Infeasible,infeasible,0,,12.648,,inf,inf,68
+5,4,Not Solved,undetermined,0,,301.006,,3.2726541764246683e-06,inf,1572
+5,5,Not Solved,undetermined,0,,301.025,,3.0416477799738317e-06,inf,203
+5,6,Not Solved,undetermined,0,,301.094,,3.3748304329273043e-06,inf,2804
+5,7,Optimal_TimeLimit,feasible,6,M:17|M:9|M:6|M:5|T:12|C:6,301.074,5.999999999999999e-06,3.241173245614036e-06,0.4598044590643273,3774
+6,3,Infeasible,infeasible,0,,13.433,,inf,inf,237
+6,4,Not Solved,undetermined,0,,301.166,,3.1759418509418506e-06,inf,937
+6,5,Not Solved,undetermined,0,,301.148,,3.4930543177715317e-06,inf,6073
+6,6,Not Solved,undetermined,0,,301.096,,3.4375183359737137e-06,inf,3309
+6,7,Optimal_TimeLimit,feasible,6,M:10|M:6|M:14|M:7|T:12|C:6,301.029,5.999999999999998e-06,3.371839080459769e-06,0.4380268199233716,876

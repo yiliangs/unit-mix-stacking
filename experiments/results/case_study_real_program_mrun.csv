@@ -1,0 +1,5 @@
+m,K,status,outcome,zones_used,floors_per_zone,solve_time_sec
+3,3,Optimal,feasible,3,lower:3|mid:8|upper:8,7.4
+4,3,"config_error: Plate 'lower' has 3 floors, but min_floors_per_zone is 4. Plate is too small to host any zone.",config_error,,,
+3,9,Optimal,feasible,4,lower:3|mid:8|upper:5|upper:3,17.12
+4,9,"config_error: Plate 'lower' has 3 floors, but min_floors_per_zone is 4. Plate is too small to host any zone.",config_error,,,

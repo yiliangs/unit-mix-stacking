@@ -1,0 +1,23 @@
+program_id,axis,param,studio,1B,2B,3B,PH,total_units,nominal_area,area_ratio,k3_outcome,k3_status,k3_zones_used,smallest_feasible_K,infeasible_K,undetermined_K,diag_unblocking_at_K3,slack_d_tried,smallest_slack_d,slack_delivered_counts,slack_abs_deviation
+posed,posed,,12,33,64,40,8,157,14772.0,1.0022,feasible,Optimal,3,3,,,,,,,
+count_studio+1,count,studio+1,13,33,64,40,8,158,14822.0,1.0056,infeasible,Infeasible,0,4,3,,Allow more distinct templates building-wide,1,1,"{""studio"": 12, ""1B"": 33, ""2B"": 64, ""3B"": 40, ""PH"": 8}",1
+count_studio-1,count,studio-1,11,33,64,40,8,156,14722.0,0.9988,feasible,Optimal,3,3,,,,,,,
+count_1B+1,count,1B+1,12,34,64,40,8,158,14840.0,1.0068,infeasible,Infeasible,0,4,3,,Allow more distinct templates building-wide,1,1,"{""studio"": 12, ""1B"": 34, ""2B"": 64, ""3B"": 41, ""PH"": 8}",1
+count_1B-1,count,1B-1,12,32,64,40,8,156,14704.0,0.9976,feasible,Optimal,3,3,,,,,,,
+count_2B+1,count,2B+1,12,33,65,40,8,158,14864.0,1.0084,infeasible,Infeasible,0,4,3,,Allow more distinct templates building-wide,1,1,"{""studio"": 12, ""1B"": 33, ""2B"": 66, ""3B"": 40, ""PH"": 8}",1
+count_2B-1,count,2B-1,12,33,63,40,8,156,14680.0,0.9959,infeasible,Infeasible,0,4,3,,Allow more distinct templates building-wide,1,1,"{""studio"": 12, ""1B"": 33, ""2B"": 64, ""3B"": 40, ""PH"": 8}",1
+count_3B+1,count,3B+1,12,33,64,41,8,158,14892.0,1.0103,infeasible,Infeasible,0,4,3,,Allow more distinct templates building-wide,1,1,"{""studio"": 12, ""1B"": 34, ""2B"": 64, ""3B"": 41, ""PH"": 8}",1
+count_3B-1,count,3B-1,12,33,64,39,8,156,14652.0,0.994,feasible,Optimal,3,3,,,,,,,
+count_PH+1,count,PH+1,12,33,64,40,9,158,14927.0,1.0127,infeasible,Infeasible,0,4,3,,Widen unit 'PH' area tolerance | Allow more distinct templates building-wide,1,1,"{""studio"": 12, ""1B"": 33, ""2B"": 64, ""3B"": 40, ""PH"": 8}",1
+count_PH-1,count,PH-1,12,33,64,40,7,156,14617.0,0.9917,infeasible,Infeasible,0,4,3,,Allow more distinct templates building-wide,1,1,"{""studio"": 12, ""1B"": 33, ""2B"": 64, ""3B"": 40, ""PH"": 8}",1
+share_0.15,share,0.15,6,16,71,45,9,147,14715.0,0.9983,infeasible,Infeasible,0,4,3,,Allow more distinct templates building-wide,1,1,"{""studio"": 6, ""1B"": 16, ""2B"": 72, ""3B"": 45, ""PH"": 8}",2
+share_0.20,share,0.20,8,22,69,43,9,151,14799.0,1.004,infeasible,Infeasible,0,4,3,,Allow more distinct templates building-wide,1,1,"{""studio"": 8, ""1B"": 22, ""2B"": 69, ""3B"": 43, ""PH"": 8}",1
+share_0.25,share,0.25,11,28,66,41,8,154,14686.0,0.9963,infeasible,Infeasible,0,4,3,,Allow more distinct templates building-wide,1,1,"{""studio"": 11, ""1B"": 28, ""2B"": 65, ""3B"": 41, ""PH"": 8}",1
+share_0.35,share,0.35,15,41,60,37,8,161,14738.0,0.9999,infeasible,Infeasible,0,4,3,,Allow more distinct templates building-wide,1,1,"{""studio"": 14, ""1B"": 41, ""2B"": 60, ""3B"": 38, ""PH"": 8}",2
+share_0.40,share,0.40,18,48,57,35,7,165,14693.0,0.9968,infeasible,Infeasible,0,4,3,,,1,1,"{""studio"": 18, ""1B"": 48, ""2B"": 57, ""3B"": 35, ""PH"": 6}",1
+share_0.45,share,0.45,20,56,53,33,7,169,14729.0,0.9993,infeasible,Infeasible,0,4,3,,Allow more distinct templates building-wide,1,1,"{""studio"": 20, ""1B"": 56, ""2B"": 52, ""3B"": 33, ""PH"": 8}",2
+tightness_0.96,tightness,0.96,11,32,61,38,8,150,14138.0,0.9592,feasible,Optimal,3,3,,,,,,,
+tightness_0.98,tightness,0.98,12,32,63,39,8,154,14492.0,0.9832,infeasible,Infeasible,0,4,3,,Allow more distinct templates building-wide,1,1,"{""studio"": 12, ""1B"": 32, ""2B"": 62, ""3B"": 39, ""PH"": 8}",1
+tightness_1.00,tightness,1.00,12,33,64,40,8,157,14772.0,1.0022,feasible,Optimal,3,3,,,,,,,
+tightness_1.02,tightness,1.02,12,34,65,41,8,160,15052.0,1.0212,infeasible,Infeasible,0,4,3,,,1,1,"{""studio"": 12, ""1B"": 34, ""2B"": 65, ""3B"": 40, ""PH"": 8}",1
+tightness_1.04,tightness,1.04,13,34,66,42,8,163,15314.0,1.0389,infeasible,Infeasible,0,4,3,,Allow more distinct templates building-wide,1,1,"{""studio"": 14, ""1B"": 33, ""2B"": 66, ""3B"": 43, ""PH"": 8}",3

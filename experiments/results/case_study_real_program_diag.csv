@@ -1,0 +1,145 @@
+program_id,knob,description,delta,status,unblocks,solve_time_sec
+count_studio+1,plate:lower.area_tol,Widen plate 'lower' floor-area tolerance,+0.50% (now 2.50%),Not Solved,False,45.86
+count_studio+1,plate:mid.area_tol,Widen plate 'mid' floor-area tolerance,+0.50% (now 2.50%),Not Solved,False,45.59
+count_studio+1,plate:upper.area_tol,Widen plate 'upper' floor-area tolerance,+0.50% (now 2.50%),Not Solved,False,45.61
+count_studio+1,unit:studio.area_tol,Widen unit 'studio' area tolerance,+2.00% (now 7.00%),Not Solved,False,45.61
+count_studio+1,unit:1B.area_tol,Widen unit '1B' area tolerance,+2.00% (now 7.00%),Not Solved,False,45.65
+count_studio+1,unit:2B.area_tol,Widen unit '2B' area tolerance,+2.00% (now 7.00%),Not Solved,False,45.66
+count_studio+1,unit:3B.area_tol,Widen unit '3B' area tolerance,+2.00% (now 7.00%),Not Solved,False,45.67
+count_studio+1,unit:PH.area_tol,Widen unit 'PH' area tolerance,+2.00% (now 7.00%),Not Solved,False,45.67
+count_studio+1,n_zones,Allow more distinct templates building-wide,+1 zones (now 4),Optimal,True,15.61
+count_1B+1,plate:lower.area_tol,Widen plate 'lower' floor-area tolerance,+0.50% (now 2.50%),Not Solved,False,45.6
+count_1B+1,plate:mid.area_tol,Widen plate 'mid' floor-area tolerance,+0.50% (now 2.50%),Not Solved,False,45.61
+count_1B+1,plate:upper.area_tol,Widen plate 'upper' floor-area tolerance,+0.50% (now 2.50%),Not Solved,False,45.61
+count_1B+1,unit:studio.area_tol,Widen unit 'studio' area tolerance,+2.00% (now 7.00%),Not Solved,False,45.85
+count_1B+1,unit:1B.area_tol,Widen unit '1B' area tolerance,+2.00% (now 7.00%),Not Solved,False,45.88
+count_1B+1,unit:2B.area_tol,Widen unit '2B' area tolerance,+2.00% (now 7.00%),Not Solved,False,45.86
+count_1B+1,unit:3B.area_tol,Widen unit '3B' area tolerance,+2.00% (now 7.00%),Not Solved,False,45.81
+count_1B+1,unit:PH.area_tol,Widen unit 'PH' area tolerance,+2.00% (now 7.00%),Not Solved,False,45.84
+count_1B+1,n_zones,Allow more distinct templates building-wide,+1 zones (now 4),Optimal,True,18.29
+count_2B+1,plate:lower.area_tol,Widen plate 'lower' floor-area tolerance,+0.50% (now 2.50%),Not Solved,False,45.59
+count_2B+1,plate:mid.area_tol,Widen plate 'mid' floor-area tolerance,+0.50% (now 2.50%),Not Solved,False,45.61
+count_2B+1,plate:upper.area_tol,Widen plate 'upper' floor-area tolerance,+0.50% (now 2.50%),Not Solved,False,45.8
+count_2B+1,unit:studio.area_tol,Widen unit 'studio' area tolerance,+2.00% (now 7.00%),Not Solved,False,45.89
+count_2B+1,unit:1B.area_tol,Widen unit '1B' area tolerance,+2.00% (now 7.00%),Not Solved,False,45.86
+count_2B+1,unit:2B.area_tol,Widen unit '2B' area tolerance,+2.00% (now 7.00%),Not Solved,False,45.83
+count_2B+1,unit:3B.area_tol,Widen unit '3B' area tolerance,+2.00% (now 7.00%),Not Solved,False,45.83
+count_2B+1,unit:PH.area_tol,Widen unit 'PH' area tolerance,+2.00% (now 7.00%),Not Solved,False,45.79
+count_2B+1,n_zones,Allow more distinct templates building-wide,+1 zones (now 4),Optimal,True,17.19
+count_2B-1,plate:lower.area_tol,Widen plate 'lower' floor-area tolerance,+0.50% (now 2.50%),Not Solved,False,45.83
+count_2B-1,plate:mid.area_tol,Widen plate 'mid' floor-area tolerance,+0.50% (now 2.50%),Not Solved,False,45.77
+count_2B-1,plate:upper.area_tol,Widen plate 'upper' floor-area tolerance,+0.50% (now 2.50%),Not Solved,False,45.75
+count_2B-1,unit:studio.area_tol,Widen unit 'studio' area tolerance,+2.00% (now 7.00%),Not Solved,False,45.66
+count_2B-1,unit:1B.area_tol,Widen unit '1B' area tolerance,+2.00% (now 7.00%),Not Solved,False,45.85
+count_2B-1,unit:2B.area_tol,Widen unit '2B' area tolerance,+2.00% (now 7.00%),Not Solved,False,45.63
+count_2B-1,unit:3B.area_tol,Widen unit '3B' area tolerance,+2.00% (now 7.00%),Not Solved,False,45.64
+count_2B-1,unit:PH.area_tol,Widen unit 'PH' area tolerance,+2.00% (now 7.00%),Not Solved,False,45.62
+count_2B-1,n_zones,Allow more distinct templates building-wide,+1 zones (now 4),Optimal,True,29.65
+count_3B+1,plate:lower.area_tol,Widen plate 'lower' floor-area tolerance,+0.50% (now 2.50%),Not Solved,False,45.76
+count_3B+1,plate:mid.area_tol,Widen plate 'mid' floor-area tolerance,+0.50% (now 2.50%),Not Solved,False,45.79
+count_3B+1,plate:upper.area_tol,Widen plate 'upper' floor-area tolerance,+0.50% (now 2.50%),Not Solved,False,45.75
+count_3B+1,unit:studio.area_tol,Widen unit 'studio' area tolerance,+2.00% (now 7.00%),Not Solved,False,45.66
+count_3B+1,unit:1B.area_tol,Widen unit '1B' area tolerance,+2.00% (now 7.00%),Not Solved,False,45.66
+count_3B+1,unit:2B.area_tol,Widen unit '2B' area tolerance,+2.00% (now 7.00%),Not Solved,False,45.64
+count_3B+1,unit:3B.area_tol,Widen unit '3B' area tolerance,+2.00% (now 7.00%),Not Solved,False,45.74
+count_3B+1,unit:PH.area_tol,Widen unit 'PH' area tolerance,+2.00% (now 7.00%),Not Solved,False,45.65
+count_3B+1,n_zones,Allow more distinct templates building-wide,+1 zones (now 4),Optimal,True,27.36
+count_PH-1,plate:lower.area_tol,Widen plate 'lower' floor-area tolerance,+0.50% (now 2.50%),Infeasible,False,13.54
+count_PH-1,plate:mid.area_tol,Widen plate 'mid' floor-area tolerance,+0.50% (now 2.50%),Infeasible,False,12.81
+count_PH-1,plate:upper.area_tol,Widen plate 'upper' floor-area tolerance,+0.50% (now 2.50%),Infeasible,False,12.37
+count_PH-1,unit:studio.area_tol,Widen unit 'studio' area tolerance,+2.00% (now 7.00%),Infeasible,False,13.78
+count_PH-1,unit:1B.area_tol,Widen unit '1B' area tolerance,+2.00% (now 7.00%),Infeasible,False,15.24
+count_PH-1,unit:2B.area_tol,Widen unit '2B' area tolerance,+2.00% (now 7.00%),Infeasible,False,15.13
+count_PH-1,unit:3B.area_tol,Widen unit '3B' area tolerance,+2.00% (now 7.00%),Infeasible,False,14.6
+count_PH-1,unit:PH.area_tol,Widen unit 'PH' area tolerance,+2.00% (now 7.00%),Infeasible,False,14.45
+count_PH-1,n_zones,Allow more distinct templates building-wide,+1 zones (now 4),Optimal,True,20.33
+share_0.15,plate:lower.area_tol,Widen plate 'lower' floor-area tolerance,+0.50% (now 2.50%),Infeasible,False,5.51
+share_0.15,plate:mid.area_tol,Widen plate 'mid' floor-area tolerance,+0.50% (now 2.50%),Infeasible,False,5.16
+share_0.15,plate:upper.area_tol,Widen plate 'upper' floor-area tolerance,+0.50% (now 2.50%),Infeasible,False,5.47
+share_0.15,unit:studio.area_tol,Widen unit 'studio' area tolerance,+2.00% (now 7.00%),Infeasible,False,6.19
+share_0.15,unit:1B.area_tol,Widen unit '1B' area tolerance,+2.00% (now 7.00%),Infeasible,False,6.6
+share_0.15,unit:2B.area_tol,Widen unit '2B' area tolerance,+2.00% (now 7.00%),Infeasible,False,6.71
+share_0.15,unit:3B.area_tol,Widen unit '3B' area tolerance,+2.00% (now 7.00%),Infeasible,False,6.36
+share_0.15,unit:PH.area_tol,Widen unit 'PH' area tolerance,+2.00% (now 7.00%),Infeasible,False,5.87
+share_0.15,n_zones,Allow more distinct templates building-wide,+1 zones (now 4),Optimal,True,6.58
+count_PH+1,plate:lower.area_tol,Widen plate 'lower' floor-area tolerance,+0.50% (now 2.50%),Not Solved,False,45.62
+count_PH+1,plate:mid.area_tol,Widen plate 'mid' floor-area tolerance,+0.50% (now 2.50%),Not Solved,False,45.59
+count_PH+1,plate:upper.area_tol,Widen plate 'upper' floor-area tolerance,+0.50% (now 2.50%),Not Solved,False,45.58
+count_PH+1,unit:studio.area_tol,Widen unit 'studio' area tolerance,+2.00% (now 7.00%),Not Solved,False,45.62
+count_PH+1,unit:1B.area_tol,Widen unit '1B' area tolerance,+2.00% (now 7.00%),Not Solved,False,45.61
+count_PH+1,unit:2B.area_tol,Widen unit '2B' area tolerance,+2.00% (now 7.00%),Not Solved,False,45.62
+count_PH+1,unit:3B.area_tol,Widen unit '3B' area tolerance,+2.00% (now 7.00%),Not Solved,False,45.61
+count_PH+1,unit:PH.area_tol,Widen unit 'PH' area tolerance,+2.00% (now 7.00%),Optimal,True,8.55
+count_PH+1,n_zones,Allow more distinct templates building-wide,+1 zones (now 4),Optimal,True,32.22
+share_0.20,plate:lower.area_tol,Widen plate 'lower' floor-area tolerance,+0.50% (now 2.50%),Infeasible,False,33.17
+share_0.20,plate:mid.area_tol,Widen plate 'mid' floor-area tolerance,+0.50% (now 2.50%),Infeasible,False,23.89
+share_0.20,plate:upper.area_tol,Widen plate 'upper' floor-area tolerance,+0.50% (now 2.50%),Infeasible,False,26.1
+share_0.20,unit:studio.area_tol,Widen unit 'studio' area tolerance,+2.00% (now 7.00%),Infeasible,False,20.98
+share_0.20,unit:1B.area_tol,Widen unit '1B' area tolerance,+2.00% (now 7.00%),Infeasible,False,36.53
+share_0.20,unit:2B.area_tol,Widen unit '2B' area tolerance,+2.00% (now 7.00%),Infeasible,False,20.09
+share_0.20,unit:3B.area_tol,Widen unit '3B' area tolerance,+2.00% (now 7.00%),Infeasible,False,33.88
+share_0.20,unit:PH.area_tol,Widen unit 'PH' area tolerance,+2.00% (now 7.00%),Infeasible,False,35.76
+share_0.20,n_zones,Allow more distinct templates building-wide,+1 zones (now 4),Optimal,True,7.71
+share_0.25,plate:lower.area_tol,Widen plate 'lower' floor-area tolerance,+0.50% (now 2.50%),Infeasible,False,34.41
+share_0.25,plate:mid.area_tol,Widen plate 'mid' floor-area tolerance,+0.50% (now 2.50%),Infeasible,False,36.4
+share_0.25,plate:upper.area_tol,Widen plate 'upper' floor-area tolerance,+0.50% (now 2.50%),Infeasible,False,41.05
+share_0.25,unit:studio.area_tol,Widen unit 'studio' area tolerance,+2.00% (now 7.00%),Infeasible,False,29.49
+share_0.25,unit:1B.area_tol,Widen unit '1B' area tolerance,+2.00% (now 7.00%),Not Solved,False,45.63
+share_0.25,unit:2B.area_tol,Widen unit '2B' area tolerance,+2.00% (now 7.00%),Infeasible,False,41.73
+share_0.25,unit:3B.area_tol,Widen unit '3B' area tolerance,+2.00% (now 7.00%),Infeasible,False,37.98
+share_0.25,unit:PH.area_tol,Widen unit 'PH' area tolerance,+2.00% (now 7.00%),Not Solved,False,45.6
+share_0.25,n_zones,Allow more distinct templates building-wide,+1 zones (now 4),Optimal,True,9.19
+share_0.35,plate:lower.area_tol,Widen plate 'lower' floor-area tolerance,+0.50% (now 2.50%),Not Solved,False,45.8
+share_0.35,plate:mid.area_tol,Widen plate 'mid' floor-area tolerance,+0.50% (now 2.50%),Not Solved,False,45.75
+share_0.35,plate:upper.area_tol,Widen plate 'upper' floor-area tolerance,+0.50% (now 2.50%),Not Solved,False,45.6
+share_0.35,unit:studio.area_tol,Widen unit 'studio' area tolerance,+2.00% (now 7.00%),Not Solved,False,45.66
+share_0.35,unit:1B.area_tol,Widen unit '1B' area tolerance,+2.00% (now 7.00%),Not Solved,False,45.63
+share_0.35,unit:2B.area_tol,Widen unit '2B' area tolerance,+2.00% (now 7.00%),Not Solved,False,45.63
+share_0.35,unit:3B.area_tol,Widen unit '3B' area tolerance,+2.00% (now 7.00%),Not Solved,False,45.63
+share_0.35,unit:PH.area_tol,Widen unit 'PH' area tolerance,+2.00% (now 7.00%),Not Solved,False,45.64
+share_0.35,n_zones,Allow more distinct templates building-wide,+1 zones (now 4),Optimal,True,15.67
+share_0.40,plate:lower.area_tol,Widen plate 'lower' floor-area tolerance,+0.50% (now 2.50%),Infeasible,False,9.58
+share_0.40,plate:mid.area_tol,Widen plate 'mid' floor-area tolerance,+0.50% (now 2.50%),Infeasible,False,24.64
+share_0.40,plate:upper.area_tol,Widen plate 'upper' floor-area tolerance,+0.50% (now 2.50%),Infeasible,False,21.93
+share_0.40,unit:studio.area_tol,Widen unit 'studio' area tolerance,+2.00% (now 7.00%),Infeasible,False,8.45
+share_0.40,unit:1B.area_tol,Widen unit '1B' area tolerance,+2.00% (now 7.00%),Infeasible,False,10.19
+share_0.40,unit:2B.area_tol,Widen unit '2B' area tolerance,+2.00% (now 7.00%),Infeasible,False,9.8
+share_0.40,unit:3B.area_tol,Widen unit '3B' area tolerance,+2.00% (now 7.00%),Infeasible,False,9.56
+share_0.40,unit:PH.area_tol,Widen unit 'PH' area tolerance,+2.00% (now 7.00%),Infeasible,False,9.95
+share_0.40,n_zones,Allow more distinct templates building-wide,+1 zones (now 4),Not Solved,False,45.63
+share_0.45,plate:lower.area_tol,Widen plate 'lower' floor-area tolerance,+0.50% (now 2.50%),Infeasible,False,21.34
+share_0.45,plate:mid.area_tol,Widen plate 'mid' floor-area tolerance,+0.50% (now 2.50%),Infeasible,False,19.02
+share_0.45,plate:upper.area_tol,Widen plate 'upper' floor-area tolerance,+0.50% (now 2.50%),Infeasible,False,18.65
+share_0.45,unit:studio.area_tol,Widen unit 'studio' area tolerance,+2.00% (now 7.00%),Infeasible,False,13.69
+share_0.45,unit:1B.area_tol,Widen unit '1B' area tolerance,+2.00% (now 7.00%),Infeasible,False,14.04
+share_0.45,unit:2B.area_tol,Widen unit '2B' area tolerance,+2.00% (now 7.00%),Infeasible,False,13.09
+share_0.45,unit:3B.area_tol,Widen unit '3B' area tolerance,+2.00% (now 7.00%),Infeasible,False,12.77
+share_0.45,unit:PH.area_tol,Widen unit 'PH' area tolerance,+2.00% (now 7.00%),Infeasible,False,23.22
+share_0.45,n_zones,Allow more distinct templates building-wide,+1 zones (now 4),Optimal,True,22.47
+tightness_0.98,plate:lower.area_tol,Widen plate 'lower' floor-area tolerance,+0.50% (now 2.50%),Not Solved,False,45.65
+tightness_0.98,plate:mid.area_tol,Widen plate 'mid' floor-area tolerance,+0.50% (now 2.50%),Infeasible,False,38.03
+tightness_0.98,plate:upper.area_tol,Widen plate 'upper' floor-area tolerance,+0.50% (now 2.50%),Infeasible,False,41.76
+tightness_0.98,unit:studio.area_tol,Widen unit 'studio' area tolerance,+2.00% (now 7.00%),Infeasible,False,43.56
+tightness_0.98,unit:1B.area_tol,Widen unit '1B' area tolerance,+2.00% (now 7.00%),Not Solved,False,45.69
+tightness_0.98,unit:2B.area_tol,Widen unit '2B' area tolerance,+2.00% (now 7.00%),Not Solved,False,45.78
+tightness_0.98,unit:3B.area_tol,Widen unit '3B' area tolerance,+2.00% (now 7.00%),Not Solved,False,45.8
+tightness_0.98,unit:PH.area_tol,Widen unit 'PH' area tolerance,+2.00% (now 7.00%),Infeasible,False,43.38
+tightness_0.98,n_zones,Allow more distinct templates building-wide,+1 zones (now 4),Optimal,True,22.61
+tightness_1.02,plate:lower.area_tol,Widen plate 'lower' floor-area tolerance,+0.50% (now 2.50%),Not Solved,False,45.85
+tightness_1.02,plate:mid.area_tol,Widen plate 'mid' floor-area tolerance,+0.50% (now 2.50%),Not Solved,False,45.83
+tightness_1.02,plate:upper.area_tol,Widen plate 'upper' floor-area tolerance,+0.50% (now 2.50%),Not Solved,False,45.87
+tightness_1.02,unit:studio.area_tol,Widen unit 'studio' area tolerance,+2.00% (now 7.00%),Not Solved,False,45.82
+tightness_1.02,unit:1B.area_tol,Widen unit '1B' area tolerance,+2.00% (now 7.00%),Not Solved,False,45.63
+tightness_1.02,unit:2B.area_tol,Widen unit '2B' area tolerance,+2.00% (now 7.00%),Not Solved,False,45.66
+tightness_1.02,unit:3B.area_tol,Widen unit '3B' area tolerance,+2.00% (now 7.00%),Not Solved,False,45.67
+tightness_1.02,unit:PH.area_tol,Widen unit 'PH' area tolerance,+2.00% (now 7.00%),Not Solved,False,45.68
+tightness_1.02,n_zones,Allow more distinct templates building-wide,+1 zones (now 4),Not Solved,False,45.67
+tightness_1.04,plate:lower.area_tol,Widen plate 'lower' floor-area tolerance,+0.50% (now 2.50%),Infeasible,False,36.4
+tightness_1.04,plate:mid.area_tol,Widen plate 'mid' floor-area tolerance,+0.50% (now 2.50%),Infeasible,False,36.87
+tightness_1.04,plate:upper.area_tol,Widen plate 'upper' floor-area tolerance,+0.50% (now 2.50%),Infeasible,False,39.5
+tightness_1.04,unit:studio.area_tol,Widen unit 'studio' area tolerance,+2.00% (now 7.00%),Infeasible,False,35.1
+tightness_1.04,unit:1B.area_tol,Widen unit '1B' area tolerance,+2.00% (now 7.00%),Infeasible,False,42.08
+tightness_1.04,unit:2B.area_tol,Widen unit '2B' area tolerance,+2.00% (now 7.00%),Infeasible,False,37.99
+tightness_1.04,unit:3B.area_tol,Widen unit '3B' area tolerance,+2.00% (now 7.00%),Infeasible,False,43.43
+tightness_1.04,unit:PH.area_tol,Widen unit 'PH' area tolerance,+2.00% (now 7.00%),Infeasible,False,38.76
+tightness_1.04,n_zones,Allow more distinct templates building-wide,+1 zones (now 4),Optimal,True,19.58
